@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Frameworks & Courses: Generative AI,TensorFlow, PyTorch, Data Structures and Algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://rathod-5h34.vercel.app/](https://rathod-5h34.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://madhavareddymadathala.vercel.app/](https://madhavareddymadathala.vercel.app/)
 
 - 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **madathalamadhavareddy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O9F7lrsJpxJvSrYjCD75FsKEvu4_V-aw/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SHguBnQkDiHXdw94qyZQkZhDeYOEAAcp/view?usp=sharing]
 - ⚡ Fun fact **I find joy in blending technology and art, whether it's coding a complex algorithm or sketching a heartfelt drawing.**
 
 <h3 align="left">Connect with me:</h3>
